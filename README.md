@@ -5,9 +5,9 @@
 
 ## 專案畫面
 
-![image](https://github.com/yanpin0524/login/blob/master/image/loginTest001.png)
+![image](https://github.com/yanpin0524/login/blob/master/images/loginTest001.png)
 
-![image](https://github.com/yanpin0524/login/blob/master/image/loginTest002.png)
+![image](https://github.com/yanpin0524/login/blob/master/images/loginTest00２.png)
 
 ## 產品功能
 
